@@ -22,4 +22,4 @@ A SQL project analyzing sales, customer, and product data using a data warehouse
 
 ## Tools Used
 
-- SQL (specify your DB engine here, e.g. PostgreSQL, MySQL, SQL Server)
+- SQL PostgreSQL
